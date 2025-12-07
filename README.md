@@ -1,2 +1,5 @@
-#Run server
-node server.js
+# Control your volume by website
+Website นี้จัดทำขึ้นมาเพราะว่า ต้องการดูหนังที่เตียง แต่บางครั้งเสียงจากหนังดังไป ขี้เกียจลุกมาปรับลำโพง เลยเกิดไอเดียการเบาเสียงจากเว็ปไซต์ขึ้นมา
+
+## How to Run
+```node server.js```
